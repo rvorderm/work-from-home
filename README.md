@@ -28,6 +28,10 @@ As much as possible, this section contains information backed by science and cit
 A curated list of equipment, tools, and software that enhance the WFH experience. Include links for purchasing or obtaining more information.
 ### Equipment Categories:
 ### Technology (Laptops, Monitors, Keyboards, Mice, Headsets)
+
+Mice:
+* [Logitech MX Master 3S](https://www.amazon.com/gp/product/B09HMKFDXC) 
+
 ### Furniture (Desks, Chairs, Lighting)
 
 It's important to create a workspace
