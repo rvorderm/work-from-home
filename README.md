@@ -24,7 +24,7 @@ As much as possible, this section contains information backed by science and cit
 
 #### Ergonomics
 
-## 2. Recommended Equipment
+## 2. Equipment
 A curated list of equipment, tools, and software that enhance the WFH experience. Include links for purchasing or obtaining more information.
 ### Equipment Categories:
 ### Technology (Laptops, Monitors, Keyboards, Mice, Headsets)
@@ -35,6 +35,10 @@ Mice:
 ### Furniture (Desks, Chairs, Lighting)
 
 It's important to create a workspace
+
+#### Desk
+
+* [Secretlab MAGNUS Pro](https://search.app/vEL8NpSG9qpWcwLRA) (unreviewed)
 
 ### Accessories (Monitor Stands, Desk Organizers, Planters for greenery)
 
